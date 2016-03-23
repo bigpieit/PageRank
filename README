@@ -1,0 +1,13 @@
+This is the project for ECS230 Applied Numerical Linear Algebra at University of California, Davis.
+Please read the Question.pdf for the questions I am going to answer about:
+1) Implementation of Power Method to determine the dominant eigenvalue of matrix.
+2) Implementation of Shifted Power Method to determine the eigenvalue of matrix.
+3) Analysis to Shifted Power Method and PageRank Method and their applications for predicting chained web.
+
+Please read through my Solution.pdf for detailed implementation of C code and analysis.
+For any quesitons, please feel free to contact me at bxli@ucdavis.edu
+Thank you!
+
+bigpieit
+
+Mar 22, 2016
